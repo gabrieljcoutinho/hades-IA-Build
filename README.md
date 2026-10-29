@@ -445,6 +445,30 @@ O **HADES** é um assistente inteligente futurista que combina **Inteligência A
 
 A proposta central do projeto é transformar respostas em conhecimento compreensível, permitindo que os usuários não apenas obtenham informações, mas também entendam profundamente os conceitos através de explicações detalhadas, demonstrações passo a passo e mapas mentais dinâmicos.
 
+
+## Imagens 
+
+  - Home 
+![alt text](<frontend/img readme/home.png>)
+
+
+ - Troca de cor
+![alt text](<frontend/img readme/trocaDecor.png>)
+
+
+- Abrir noticias (comando de voz/texxto: bom doa, boa tarde, boa noite)
+![alt text](<frontend/img readme/noticias.png>)
+
+
+- Mapa mental
+![alt text](<frontend/img readme/mapaMental.png>)
+
+- Exercício Matemático
+![alt text](image-1.png)
+
+- Tocar música
+![alt text](<frontend/img readme/tocarMusicas.png>)
+
 ---
 
 ## Licença
