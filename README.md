@@ -449,25 +449,23 @@ A proposta central do projeto é transformar respostas em conhecimento compreens
 ## Imagens 
 
   - Home 
-![alt text](<frontend/img readme/home.png>)
-
+<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/cb659305-3bec-4f80-ada7-bff6a50ac72c" />
 
  - Troca de cor
-![alt text](<frontend/img readme/trocaDecor.png>)
-
+<img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/b55f6fe5-c890-43a3-b4f8-6ceafefbf677" />
 
 - Abrir noticias (comando de voz/texxto: bom doa, boa tarde, boa noite)
-![alt text](<frontend/img readme/noticias.png>)
-
+<img width="1912" height="908" alt="image" src="https://github.com/user-attachments/assets/83aac8ac-f14f-4b48-8a77-5f8f27c7e3c5" />
 
 - Mapa mental
-![alt text](<frontend/img readme/mapaMental.png>)
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5c48f338-4413-492f-8dd2-ae1141d67e40" />
 
 - Exercício Matemático
-![alt text](image-1.png)
+<img width="1914" height="904" alt="image" src="https://github.com/user-attachments/assets/b59dead0-93d3-44dc-9a85-b9a3fd27684b" />
 
 - Tocar música
-![alt text](<frontend/img readme/tocarMusicas.png>)
+<img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/8087f649-faf7-4795-9e54-3aa5b2d97ed4" />
+
 
 ---
 
